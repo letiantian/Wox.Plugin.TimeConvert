@@ -1,0 +1,12 @@
+{
+    "ID":"letian-timeconvert",
+    "ActionKeyword":"tc",
+    "Name":"时间转换",
+    "Description":"时间转换",
+    "Author":"letian",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://letianbiji.com",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
